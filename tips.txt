@@ -1,0 +1,15 @@
+fresh machi8ne. dont' forget git --config
+
+he did an echo thing for say
+export MOB_VOICE...
+
+
+have git setup installed with SSH keys configured
+the user.name and user.email set
+
+set the timer (somehow) so I dn't have to remember "mob start 1"
+
+
+always do mob start [interval]
+
+mob start without interval results in infinite timer
